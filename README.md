@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 5, 2026
+**Last updated:** July 9, 2026
 
 ## Skills in this repo
 
@@ -26,6 +26,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | 异地开播考试 | [Douyin_异地开播考试_Skill_v2.md](markdown/Douyin_异地开播考试_Skill_v2.md) | Verified answers and question patterns for the remote live-streaming compliance exam |
+
+### Desktop / Hardware
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Mouse right-click fix | [mouse_right_click_troubleshooting_skill.md](markdown/mouse_right_click_troubleshooting_skill.md) | Restore right-click by reconnecting the USB mouse receiver; clears temporary USB/HID communication glitches |
 
 ## Adding a new skill
 
