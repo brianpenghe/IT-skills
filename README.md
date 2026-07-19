@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 9, 2026
+**Last updated:** July 19, 2026
 
 ## Skills in this repo
 
@@ -38,6 +38,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Mouse right-click fix | [mouse_right_click_troubleshooting_skill.md](markdown/mouse_right_click_troubleshooting_skill.md) | Restore right-click by reconnecting the USB mouse receiver; clears temporary USB/HID communication glitches |
+
+### OCR / Digitization
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| 古籍 PDF OCR 与校勘 | [SKILL_古籍PDF_OCR_校勘_SearchablePDF_Workflow.md](markdown/SKILL_古籍PDF_OCR_校勘_SearchablePDF_Workflow.md) | Workflow for classical Chinese PDF OCR, proofreading, and searchable PDF generation with Cursor Agent, PaddleOCR, and ChatGPT |
 
 ## Adding a new skill
 
