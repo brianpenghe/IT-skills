@@ -15,6 +15,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | App Store account switching | [iOS-store-logout.md](markdown/iOS-store-logout.md) | Sign out of one regional Apple ID and sign into another on Media & Purchases without changing iCloud or device region |
 | iPhone contacts Gmail sync bug | [iphone_contacts_gmail_sync_bug_fix.md](markdown/iphone_contacts_gmail_sync_bug_fix.md) | Blank or wrong contact cards caused by Gmail sync / suggested-contact cache; fix via Google Contacts cleanup and cache refresh |
 
+### macOS
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Night Shift | [macos-night-shift-skill.md](markdown/macos-night-shift-skill.md) | Enable Night Shift on macOS to reduce blue light and eye strain, including setup for external monitors |
+
 ### Google (iOS)
 
 | Skill | File | What it covers |
