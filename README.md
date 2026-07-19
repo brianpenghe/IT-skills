@@ -45,6 +45,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 |-------|------|----------------|
 | 古籍 PDF OCR 与校勘 | [SKILL_古籍PDF_OCR_校勘_SearchablePDF_Workflow.md](markdown/SKILL_古籍PDF_OCR_校勘_SearchablePDF_Workflow.md) | Workflow for classical Chinese PDF OCR, proofreading, and searchable PDF generation with Cursor Agent, PaddleOCR, and ChatGPT |
 
+### GitHub
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Organization custom properties | [GitHub_Organization_Custom_Properties_Skill.md](markdown/GitHub_Organization_Custom_Properties_Skill.md) | Classify and search organization repositories using GitHub Custom Properties |
+
 ## Adding a new skill
 
 1. Add the `.md` file to [markdown](markdown/).
