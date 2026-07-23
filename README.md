@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 20, 2026
+**Last updated:** July 23, 2026
 
 ## Skills in this repo
 
@@ -14,6 +14,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 |-------|------|----------------|
 | App Store account switching | [iOS-store-logout.md](markdown/iOS-store-logout.md) | Sign out of one regional Apple ID and sign into another on Media & Purchases without changing iCloud or device region |
 | iPhone contacts Gmail sync bug | [iphone_contacts_gmail_sync_bug_fix.md](markdown/iphone_contacts_gmail_sync_bug_fix.md) | Blank or wrong contact cards caused by Gmail sync / suggested-contact cache; fix via Google Contacts cleanup and cache refresh |
+
+### Cursor
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Cloud agents from iPhone | [Cursor_iPhone_Cloud_Agent_Skill.md](markdown/Cursor_iPhone_Cloud_Agent_Skill.md) | Use Cursor iOS cloud agents on GitHub organization repos (e.g. lab website) via dashboard Integrations and the same Cursor account |
 
 ### macOS
 
