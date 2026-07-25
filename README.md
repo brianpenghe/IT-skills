@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 23, 2026
+**Last updated:** July 24, 2026
 
 ## Skills in this repo
 
@@ -26,8 +26,9 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Night Shift | [macos-night-shift-skill.md](markdown/macos-night-shift-skill.md) | Enable Night Shift on macOS to reduce blue light and eye strain, including setup for external monitors |
+| Sanger Okta / Chrome / Google Drive | [Sanger_Okta_Chrome_Google_Drive_Troubleshooting.md](markdown/Sanger_Okta_Chrome_Google_Drive_Troubleshooting.md) | Stop Chrome from opening leftover Sanger Okta login after leaving the institute and removing the old Chrome profile |
 
-### Google (iOS)
+### Google
 
 | Skill | File | What it covers |
 |-------|------|----------------|
