@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 24, 2026
+**Last updated:** July 27, 2026
 
 ## Skills in this repo
 
@@ -20,6 +20,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Cloud agents from iPhone | [Cursor_iPhone_Cloud_Agent_Skill.md](markdown/Cursor_iPhone_Cloud_Agent_Skill.md) | Use Cursor iOS cloud agents on GitHub organization repos (e.g. lab website) via dashboard Integrations and the same Cursor account |
+
+### ChatGPT
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Voice input troubleshooting | [ChatGPT_Voice_Input_Troubleshooting_Skill.md](markdown/ChatGPT_Voice_Input_Troubleshooting_Skill.md) | Diagnose ChatGPT voice waveform with no transcription after speaking |
 
 ### macOS
 
