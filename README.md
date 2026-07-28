@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 27, 2026
+**Last updated:** July 28, 2026
 
 ## Skills in this repo
 
@@ -39,6 +39,7 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Google Maps work address | [google_maps_work_address_ios_skill.md](markdown/google_maps_work_address_ios_skill.md) | Update the saved Work address in Google Maps on iPhone |
+| Google Maps reviews export | [google_maps_reviews_skill.md](markdown/google_maps_reviews_skill.md) | Export place reviews via Google Takeout (Maps your places) and convert JSON to readable CSV/Excel |
 
 ### Douyin / 抖音
 
