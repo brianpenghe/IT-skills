@@ -73,6 +73,14 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 
 ## Adding a new skill
 
+For the full agent/human workflow (Downloads → `markdown/` → README →
+commit/push), see [add_new_skill_workflow.md](add_new_skill_workflow.md)
+at the repo root.
+
+Short version:
+
 1. Add the `.md` file to [markdown](markdown/).
 2. Add a row to the appropriate section above (or create a new section if needed).
 3. Update the **Last updated** date at the top of this README.
+4. Commit and push only when asked (typical message: `Add … skill and update README.`).
+
