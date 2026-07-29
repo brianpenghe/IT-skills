@@ -4,7 +4,13 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 28, 2026
+**Last updated:** July 29, 2026
+
+> **Date caveat:** Prefer the curated skills listed below. An additional
+> **729 historical Blogger notes** (mostly 2013–2022) live under
+> [markdown/archive/blogger-published-notes/](markdown/archive/blogger-published-notes/).
+> Each archived note is stamped with its original creation date—many are
+> outdated; take them with a grain of salt.
 
 ## Skills in this repo
 
@@ -70,6 +76,16 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Job email automation | [job_email_automation_workflow_skill.md](markdown/job_email_automation_workflow_skill.md) | Pipeline from Outlook job emails through Power Automate and OneDrive to Cursor processing and GitHub |
+
+### Archived Blogger notes (historical)
+
+Imported from Obsidian `TroubleshootNotes/BloggerPublishedNonAcademicNotes`. **Not curated**—kept for search/history.
+
+| Resource | Link | What it covers |
+|----------|------|----------------|
+| Archive overview + age bands | [archive/blogger-published-notes/README.md](markdown/archive/blogger-published-notes/README.md) | Why dates matter; counts by age |
+| Full dated index | [archive/blogger-published-notes/INDEX.md](markdown/archive/blogger-published-notes/INDEX.md) | All 729 notes sorted by original creation date |
+| Notes | [archive/blogger-published-notes/notes/](markdown/archive/blogger-published-notes/notes/) | Individual stamped markdown files |
 
 ## Adding a new skill
 

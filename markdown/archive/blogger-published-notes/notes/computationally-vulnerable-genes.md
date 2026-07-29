@@ -1,0 +1,3385 @@
+---
+title: 'Computationally vulnerable genes'
+date: 2017-03-22T12:32:00.000-07:00
+draft: false
+url: /2017/03/computationally-vulnerable-genes.html
+---
+
+> **Archived note — originally created: 2017-03-22 — very old (8+ years) — likely outdated**  
+> Imported from Obsidian `TroubleshootNotes/BloggerPublishedNonAcademicNotes`.  
+> Older notes are often outdated or environment-specific; verify before following.
+
+---
+
+
+1\. vulnerable genes in single-cell RNA-seq 
+(GO: ribosome, but not rRNA) 
+
+    Atp5f1 
+    Cct3 
+    Tcp1 
+    Dnajc8 
+    Capza2 
+    Paics 
+    Hypk 
+    Mrpl18 
+    Cse1l 
+    Actl6a 
+    Hmga1 
+    Rsl1d1 
+    Cdca7 
+    Wdr61 
+    Hdac2 
+    Psma1 
+    Med7 
+    Pabpn1 
+    Serf1 
+    Commd3 
+    Adsl 
+    Psmd1 
+    Naa10 
+    Mrto4 
+    Apex1 
+    Lrwd1 
+    Hnrnpd 
+    Tceb1 
+    Lsm5 
+    Vdac2 
+    Eif4a1 
+    Lyar 
+    Syncrip 
+    Ddx39 
+    Phb 
+    Atp5a1 
+    Apoo-ps 
+    Apoo 
+    Dynlt1c 
+    Snrpn 
+    Cabp7 
+    Ube2i 
+    Cdc34-ps 
+    Gm5457 
+    Gm5803 
+    Gm4835 
+    Gm10335 
+    Rpl36-ps2 
+    Gm5764 
+    Gm4883 
+    Gm9097 
+    Gm9095 
+    Rpsa-ps5 
+    Gm9083 
+    Rpsa-ps3 
+    Gstp2 
+    Gm5278 
+    Gm7541 
+    Mir692-3 
+    Mir692-2 
+    Gm22774 
+    Gm26445 
+    RP23-436F15.2 
+    Gm17136 
+    Gm10051 
+    Gm7125 
+    Gm16494 
+    Gm14008 
+    Gm10059 
+    Gm7331 
+    Rpl19-ps12 
+    Rpl21-ps11 
+    Gm13182 
+    Gm12912 
+    Gm10231 
+    Rps19-ps13 
+    Rps19-ps5 
+    Rpl18a-ps1 
+    Gm13740 
+    Rpl29-ps5 
+    Gm17669 
+    Rpl29-ps2 
+    Gm6404 
+    Gm10154 
+    Gm7857 
+    Gm13216 
+    Rps6-ps2 
+    Gm12632 
+    Gm5777 
+    C330021F23Rik 
+    Rps13-ps5 
+    Gm12242 
+    Gm13750 
+    Gm16200 
+    Gm16335 
+    Gm12643 
+    RP23-36C9.2 
+    Gm5967 
+    Gm15538 
+    Gm14056 
+    Gm13679 
+    Rpl31-ps12 
+    Gm10015 
+    Gm6822 
+    Gm11575 
+    Gm14016 
+    Gm13232 
+    Gm7909 
+    Gm8865 
+    Gm6651 
+    Gm7027 
+    Rpl17-ps4 
+    Gm7867 
+    Gm6133 
+    Gm14323 
+    Gm7079 
+    Gm9836 
+    Gm14036 
+    Gm12944 
+    Gm11449 
+    Gm5561 
+    Gm15808 
+    Gm16103 
+    RP24-549O22.3 
+    Gm13841 
+    Gm8210 
+    Smt3h2-ps 
+    Gm8587 
+    Gm5145 
+    Gm15466 
+    Gm15454 
+    Gm6028 
+    AL589742.1 
+    Gm7866 
+    Gm20538 
+    Gm10086 
+    Gm11971 
+    Gm13831 
+    Gm12447 
+    Gm5218 
+    Gm5228 
+    Gm6285 
+    Gm11425 
+    Gm8420 
+    Gm11469 
+    Rpl35a-ps7 
+    Gm20302 
+    Gm2174 
+    Gm10712 
+    Gm14633 
+    Gm8112 
+    Gm4995 
+    Gm13623 
+    Gm12038 
+    Gm15779 
+    Rps18-ps1 
+    Gm13226 
+    Gm6311 
+    Rpl27-ps2 
+    Gm29485 
+    Rpl10-ps1 
+    Gm6428 
+    BC048507 
+    Gm6913 
+    Gm12755 
+    Rps6-ps3 
+    RP24-372I24.3 
+    Gm10247 
+    Gm6177 
+    Rpl30-ps8 
+    Rpl12-ps1 
+    RP23-167C2.1 
+    Gm15974 
+    Rpl27-ps1 
+    Gm6030 
+    Gm609 
+    Gm6139 
+    Gm8129 
+    Rps19-ps7 
+    Ftl2 
+    Gm26980 
+    Gm13642 
+    Rplp0-ps1 
+    Gm13624 
+    Gm13202 
+    Gm13586 
+    Gm5356 
+    Gm13921 
+    Rpl31-ps13 
+    Gm5292 
+    Gm12778 
+    Rpl31-ps9 
+    Gm6654 
+    Gm7781 
+    Gm2245 
+    Gm12344 
+    Gm12513 
+    Gm16238 
+    Gm12460 
+    Gm4705 
+    Itgam 
+    Rps23-ps2 
+    Gm6964 
+    Gm14138 
+    Gm11598 
+    Gm6807 
+    Rpl30-ps1 
+    Gm5392 
+    Gm15766 
+    Gm11633 
+    Rpl23a-ps5 
+    Gm11759 
+    Gm29138 
+    Gm12458 
+    Gm13418 
+    Gm5269 
+    RP23-411P10.5 
+    Hnrnpa1l2-ps 
+    Gm8652 
+    Gm5575 
+    RP24-400J22.1 
+    RP24-400J22.2 
+    Gm13600 
+    Rpl30-ps5 
+    Gm12983 
+    Gm14807 
+    Gm15151 
+    Gm11877 
+    Hspe1-ps5 
+    Hspe1-ps3 
+    Gm14238 
+    Gm11625 
+    Gm15778 
+    Rps24-ps2 
+    Gm6155 
+    Gm7083 
+    Gm12094 
+    Gm26983 
+    Rpl30-ps3 
+    Gm13500 
+    Gm15877 
+    RP23-145M5.2 
+    Gm12642 
+    Tpt1-ps5 
+    Gm10540 
+    Gm27018 
+    Gm13935 
+    Gm2986 
+    Gm5453 
+    Gm10029 
+    Gm10240 
+    Gm13370 
+    Gm6594 
+    Gm14650 
+    Gm6043 
+    Gm10224 
+    Gm12726 
+    Gm5471 
+    Rpl10-ps2 
+    Gm10171 
+    Gm25241 
+    Gm15459 
+    Gm2904 
+    Gm3170 
+    Gm3348 
+    Gm17048 
+    Gm17222 
+    Gm17121 
+    Gm17045 
+    Gm17046 
+    Gm15660 
+    AC098736.2 
+    Gm5093 
+    Gm5621 
+    Rpl15-ps1 
+    Gm15730 
+    Rpl19-ps1 
+    Gm3756 
+    Gm13915 
+    Gm13602 
+    Gm9432 
+    Gm7589 
+    Gm11263 
+    Gm13007 
+    Gm13160 
+    RP23-85E24.2 
+    Spcs2-ps 
+    Gm3362 
+    Gm13675 
+    Gm15610 
+    Gm13413 
+    Gm12671 
+    Gm14165 
+    Rpl23a-ps14 
+    Gm8213 
+    Gm8451 
+    Gm7808 
+    Rpl31-ps15 
+    Rps19-ps2 
+    Rps19-ps1 
+    Gm3076 
+    Gm5529 
+    Gm13198 
+    Gm6425 
+    Gm7560 
+    Slc25a5-ps 
+    Gm5256 
+    Gm6378 
+    Rpl31-ps10 
+    Gm9396 
+    Gm7117 
+    Gm6060 
+    Gm10136 
+    Gm7516 
+    Gm5388 
+    Gm12003 
+    Gm17541 
+    Gm5537 
+    Gm7290 
+    Gm5814 
+    Gm28555 
+    Gm15464 
+    Gm28530 
+    Gm15843 
+    Gm11951 
+    Gm15365 
+    Atp5l2-ps 
+    Gm2840 
+    Trim7 
+    Gm11836 
+    Rpl28-ps3 
+    Rpsa-ps1 
+    Gm5160 
+    Gm14044 
+    Gm5883 
+    Rpl31-ps16 
+    Gm7336 
+    Rps2-ps9 
+    Gm15710 
+    Gm12035 
+    Cks1brt 
+    Rps8-ps2 
+    Gm14438 
+    Gm16585 
+    Gm11401 
+    Gm6407 
+    Gm3150 
+    Wdr38 
+    Gm10020 
+    Gm14231 
+    Gm10774 
+    Gm17087 
+    Gm3851 
+    Gm8520 
+    Gm7091 
+    Gm8225 
+    Gm12922 
+    Gm12091 
+    Gm11599 
+    RP24-363G13.1 
+    Rps2-ps13 
+    Rps2-ps11 
+    Gm10036 
+    Rpl13-ps3 
+    Gm7931 
+    Gm5558 
+    Gm10653 
+    Gm7803 
+    RP24-574O8.7 
+    Gm8994 
+    Gm28439 
+    Gm5265 
+    Gm14830 
+    Gm4853 
+    Gm12482 
+    Aldoart1 
+    Gm13549 
+    Ldha-ps 
+    Gm13812 
+    Gm13810 
+    Gcom1 
+    Gm13342 
+    Gm8019 
+    Rps27a-ps1 
+    Gm14237 
+    Gm11582 
+    Gm6788 
+    Gm13622 
+    Gm11893 
+    Gm29241 
+    Gm15616 
+    Gm2830 
+    Gm21181 
+    Gm16056 
+    Gm26510 
+    RP23-243N8.1 
+    Gm12807 
+    Gm10269 
+    Rps19-ps4 
+    Gm14279 
+    Gm20746 
+    Gm8524 
+    Gm9436 
+    Gm8141 
+    Gm8326 
+    Gm11353 
+    Gm9386 
+    Gm7426 
+    Gm10126 
+    RP24-66E21.8 
+    Gm5239 
+    Rpl31-ps11 
+    Gm8317 
+    RP24-290D14.2 
+    Gm6682 
+    Gm14173 
+    Gm14414 
+    Gm8623 
+    Gm13771 
+    Gm16412 
+    Gm8292 
+    Gm5582 
+    Gm13363 
+    RP23-5K7.4 
+    Gm13430 
+    Gm11675 
+    Gm16409 
+    Gm13827 
+    Gm16288 
+    RP23-159D18.2 
+    RP24-550N13.2 
+    Gm7729 
+    Gm17060 
+    Gm13690 
+    Gm6254 
+    Gm7551 
+    Gm6758 
+    Gm6161 
+    Gm5940 
+    Gm11991 
+    Gm7399 
+    Gm17082 
+    Gm12960 
+    Gm9242 
+    Gm17190 
+    Gm6153 
+    Gm12129 
+    Gm14730 
+    Gm14398 
+    Gm13268 
+    Rpl30-ps11 
+    Gm15793 
+    Gm12816 
+    Gm5451 
+    Gm13368 
+    Gm14530 
+    Gm7289 
+    Gm5511 
+    Gm13359 
+    Gm10087 
+    Gm2862 
+    Gm20521 
+    Sla2 
+    Gm13408 
+    Hmgn2-ps1 
+    Gm9143 
+    Rpl9-ps7 
+    Gm13743 
+    Gm7324 
+    RP24-268A16.1 
+    Gm16216 
+    Gm6335 
+    Gm9763 
+    Gm10263 
+    Gm15785 
+    Gm20519 
+    Gm2541 
+    Rpl13-ps1 
+    Gm21981 
+    Tomm6os 
+    Gm6576 
+    Rpl31-ps14 
+    Gm8894 
+    Gm12271 
+    Gm5778 
+    Gm7493 
+    Gm6900 
+    Gm13292 
+    RP23-302C16.5 
+    Gm6570 
+    Gm12372 
+    Gm10268 
+    Rplp2-ps1 
+    Gm12565 
+    Gm8696 
+    Acta1 
+    Gm17228 
+    Gm10071 
+    Gm6132 
+    Rpl10-ps6 
+    Gm12728 
+    Rps15a-ps3 
+    Hmgb1-ps1 
+    Cct3-ps1 
+    Gm5687 
+    Rpsa-ps2 
+    Rps19-ps3 
+    Gm8692 
+    Gm10913 
+    Gm15516 
+    Gm4943 
+    Gm16418 
+    Gm4750 
+    Gm8464 
+    Gm11539 
+    Gm13904 
+    Gm3940 
+    Gm5428 
+    Rpl36a-ps3 
+    Gm5879 
+    Rpsa-ps11 
+    Gm7722 
+    Rpsa-ps9 
+    E030024N20Rik 
+    Gm11604 
+    Gm29257 
+    Gm4950 
+    Rpl38-ps1 
+    Gm10482 
+    Gm28685 
+    Gm13252 
+    Gm13532 
+    Gm9009 
+    Rpl35a-ps5 
+    Gm14970 
+    Gm11793 
+    Gm4938 
+    Gm8741 
+    Gm2606 
+    Gm13573 
+    Gm8618 
+    Gm10420 
+    Pgam1-ps1 
+    Rps23-ps1 
+    Gm17786 
+    Rasl2-9 
+    Gm15013 
+    Gm5513 
+    Gm5527 
+    Gm10073 
+    Gm10260 
+    Gm12933 
+    Gm11100 
+    Gm12261 
+    Gm16477 
+    Gm11362 
+    Gm17828 
+    Gm5766 
+    Rpl7a-ps5 
+    Gm5619 
+    Gm6286 
+    Gm17826 
+    Gm17728 
+    Gm17748 
+    Rpl7a-ps10 
+    Gm13039 
+    Gm13578 
+    Gm15599 
+    Gm11824 
+    Gm6368 
+    AY036118 
+    Gm12034 
+    Gm14251 
+    Gm12366 
+    Gm5406 
+    Gm4017 
+    Gm5921 
+    Gm8885 
+    Gm26586 
+    Gm13529 
+    Gm14383 
+    Rpl15-ps2 
+    Gm16373 
+    Gm26765 
+    Gm5943 
+    Gm9824 
+    Gm5121 
+    Gm11222 
+    RP23-279D12.2 
+    Gm5045 
+    Rpl5-ps1 
+    Rpl31-ps17 
+    Gm5643 
+    Gm15682 
+    Gm6341 
+    Gm16437 
+    Gm17257 
+    Hmgb1-ps8 
+    Gm28037 
+    Gm15483 
+    RP24-511H12.7 
+    Gm26585 
+    Gm7363 
+    Gm14131 
+    Gm8666 
+    Acat3 
+    Rps12-ps10 
+    Tpt1-ps6 
+    Gm11878 
+    Gm15285 
+    Gm19246 
+    Gm8172 
+    Gm12537 
+    Gadl1 
+    Gm6517 
+    Rpsa-ps4 
+    Gm9703 
+    Rps6-ps1 
+    Gm12749 
+    Gm19587 
+    Gm5920 
+    Ywhaq-ps2 
+    Gm10075 
+    Gm3160 
+    Gm14098 
+    Gm14537 
+    Gm15148 
+    Gm11954 
+    Gm13005 
+    Rps4l-ps 
+    Gm12727 
+    Gm6054 
+    Gm16380 
+    Gm3835 
+    Gm26951 
+    Gm8722 
+    Gm12435 
+    Gm2991 
+    Gm20657 
+    Gm11687 
+    Rps2-ps6 
+    Gm6065 
+    Gm20900 
+    Gm13192 
+    Gm5822 
+    Gm5786 
+    Gm5620 
+    Gm4852 
+    Gm8337 
+    Gm15495 
+    Gm12335 
+    Gm8318 
+    Gm6430 
+    Rps13-ps4 
+    Gm12013 
+    Rpl3-ps2 
+    Gm12020 
+    Gm29514 
+    Gm5263 
+    Gm5268 
+    Gm14639 
+    Gm11957 
+    Gm15576 
+    Gm8991 
+    Gm12096 
+    Gm13231 
+    Gm13140 
+    Gm8849 
+    Eif3s6-ps2 
+    Gm5806 
+    Gm5597 
+    Gm10088 
+    Gm11843 
+    Gm6361 
+    Gm13650 
+    Gm14406 
+    Gm14444 
+    Gm14401 
+    Gm26619 
+    Gm6419 
+    Gm13493 
+    Gm10689 
+    Rpl36-ps3 
+    Gm4342 
+    RP23-120D6.2 
+    Gm6292 
+    RP24-399B3.8 
+    RP24-399B3.9 
+    BC001981 
+    Gm10343 
+    Gm14328 
+    Gm6304 
+    Gm15648 
+    Rps12-ps9 
+    Gm12164 
+    Gm5566 
+    Gm4613 
+    Gm5908 
+    Rpl7a-ps11 
+    Gm6159 
+    Gm13331 
+    Gm16165 
+    Tubb4b-ps1 
+    Tubb4b-ps2 
+    Gm11196 
+    Gm15946 
+    Gm9174 
+    Gm7935 
+    Gm14227 
+    Gm7429 
+    Gm6756 
+    Gm9252 
+    Gm7901 
+    Gm13337 
+    Gm5385 
+    Zfp422-rs1 
+    Actg-ps1 
+    Gm15750 
+    Rpl9-ps4 
+    Gm11826 
+    Txn-ps1 
+    Smt3h2-ps4 
+    H3f3a-ps1 
+    Gm12657 
+    Gm8807 
+    Hmgb1-ps3 
+    Gm5518 
+    Gm14335 
+    Gm15773 
+    Gm13864 
+    Gm11226 
+    Gm12571 
+    Gm13215 
+    Rpsa-ps12 
+    Gm17494 
+    Gm9104 
+    Gm12403 
+    Ccnd3-ps 
+    Gm21982 
+    Ldha-ps2 
+    4930526A20Rik 
+    Gm12428 
+    Cox20-ps 
+    Gm11349 
+    Gm13313 
+    Hspa9-ps1 
+    Gm10074 
+    Rpl18-ps1 
+    Gm6222 
+    Gm13772 
+    Gm8624 
+    Gm17383 
+    Rpl17-ps5 
+    Hmgb1-ps9 
+    Gm15920 
+    Gm6142 
+    Gm11945 
+    Gm10132 
+    Gm6767 
+    1700022I11Rik 
+    Gm27021 
+    Gm12583 
+    Gm8494 
+    RP24-447G12.2 
+    Rpl5-ps2 
+    Gm12988 
+    H3f3a-ps2 
+    Gm6061 
+    Gm5844 
+    Trim17 
+    Gm20634 
+    Gm15444 
+    Gm20633 
+    Hist2h2ab 
+    Hist1h2ao 
+    Gm20632 
+    Hist1h2ah 
+    Hist1h2aj 
+    Hist1h2ai 
+    Gm11336 
+    Hist1h2af 
+    Hist1h2an 
+    Gm10257 
+    Rps2-ps5 
+    Gm6195 
+    Atp5l-ps1 
+    Gm26623 
+    Gm5525 
+    Gm6415 
+    Gm5616 
+    Gm5576 
+    RP24-388D8.6 
+    RP24-212P5.2 
+    Gm10357 
+    Gm6397 
+    Gm8152 
+    Slc7a11 
+    Gm14017 
+    Gm10233 
+    Gm16209 
+    Gm5805 
+    Rpl17-ps9 
+    Gm15267 
+    Gm8396 
+    4930506C21Rik 
+    Gm10359 
+    Gm13181 
+    Gm6421 
+    Gm8641 
+    Gm5560 
+    Gm10259 
+    Gm13310 
+    Gm16436 
+    Gm4991 
+    Gm5832 
+    Gm12919 
+    Gm12891 
+    Gm12856 
+    Gm5148 
+    Gm12033 
+    Gm7665 
+    Gm12504 
+    Gm9844 
+    Gm10548 
+    Gm9234 
+    Gm14046 
+    Gm5963 
+    Gm4604 
+    Gm8508 
+    Gm29041 
+    Gm11407 
+    Gm4076 
+    Gm14706 
+    Gm29228 
+    Mir686 
+    Gm13453 
+    Gm4335 
+    Gm9115 
+    Gm12846 
+    Gm14788 
+    Gm8982 
+    Gm7278 
+    Gm8401 
+    Gm6823 
+    Gm11361 
+    Gm13347 
+    Gm13346 
+    Gm15720 
+    Gm13680 
+    Gm11491 
+    RP23-174P13.4 
+    Gm15294 
+    Gm11942 
+    Fam221b 
+    Gm5514 
+    Gm7862 
+    Gm16379 
+    Gm12999 
+    Gm26596 
+    Gm6960 
+    2310031A07Rik 
+    Gm13136 
+    Gm13034 
+    Gm15487 
+    Gm6170 
+    Gm15361 
+    Rps3a3 
+    Ube2nl 
+    Gm15776 
+    Gm9044 
+    Gm9040 
+    Gm9048 
+    Gm9046 
+    Gm9049 
+    Gm9045 
+    Gm11605 
+    Gm6263 
+    Rps26-ps1 
+    Hmgb1-ps6 
+    Gm26882 
+    Gm11488 
+    Gm6793 
+    Gm12070 
+    Gm5456 
+    Gm5830 
+    Gm12251 
+    Gm9320 
+    Gm5866 
+    Gm11249 
+    RP24-374C7.1 
+    Rps15a-ps5 
+    Anp32b-ps1 
+    B020018G12Rik 
+    Gm6736 
+    RP23-453N3.4 
+    Gm12138 
+    Gm8806 
+    Ppp1r2-ps3 
+    Ppp1r2-ps1 
+    Ppp1r2-ps6 
+    Gm14600 
+    Arhgap4 
+    Gm12734 
+    Hmgb1-ps4 
+    Gm2531 
+    Gm11814 
+    Gm5422 
+    Gm5580 
+    Hmgb1-ps7 
+    Gm26631 
+    Gm11652 
+    Gm11585 
+    Gm11703 
+    Gm15590 
+    RP23-393P20.1 
+    Gm18889 
+    Gm6075 
+    Gm9169 
+    Gm12468 
+    Lamp3 
+    Gm12174 
+    Gm9575 
+    Gm13135 
+    Gm16580 
+    RP23-241H7.1 
+    4931440P22Rik 
+    Gm6444 
+    RP23-172B15.2 
+    Gm5867 
+    Gm4799 
+    Gm6166 
+    Ccdc142 
+    Rps15-ps2 
+    Gm6467 
+    Gm4691 
+    Smarca5-ps 
+    Gm10709 
+    Gm13339 
+    Gm15484 
+    RP23-310C14.2 
+    Gm11560 
+    Rpl21-ps8 
+    Gm6344 
+    Hmgb1-ps2 
+    Gm3550 
+    mt-Ts1 
+    Gm13340 
+    Gm12355 
+    Gm17149 
+    Ap3s1-ps2 
+    Gm5559 
+    Rps10-ps1 
+    Gm7180 
+    Gm13394 
+    Gm12350 
+    Rpl18-ps2 
+    Gm13341 
+    Gm12115 
+    Gm8399 
+    Gm2423 
+    Gm12254 
+    Gm7204 
+    RP23-370E6.2 
+    Gm5909 
+    Ap3s1-ps1 
+    Gm6781 
+    E130201H02Rik 
+    Als2cr12 
+    Gm6984 
+    Gm10068 
+    Gm5937 
+    RP24-252K15.3 
+    Rps15a-ps4 
+    Eif5al3-ps 
+    Gm14538 
+    Tma7-ps 
+    Gm5526 
+    Gm14122 
+    Gm9493 
+    Gm12804 
+    Gm12430 
+    Gm8730 
+    Gm10320 
+    Gm11847 
+    Gm5896 
+    WI1-1003N17.1 
+    Gm10819 
+    Gm6395 
+    Tdpx-ps1 
+    Shc4 
+    Gm16062 
+    Pgam1-ps2 
+    Gm26819 
+    Gm10069 
+    Rpl17-ps10 
+    Gm9625 
+    Gm5555 
+    Gm6382 
+    RP24-422L17.1 
+    Gm26722 
+    Gm7809 
+    Ccdc38 
+    Gm27219 
+    Gm8752 
+    Gm8750 
+    Gm13577 
+    Snx22 
+    Gm9855 
+    Gm17275 
+    Gm26582 
+    Gm14928 
+    Gm5829 
+    Gm6548 
+    Psmb6-ps2 
+    Gm13436 
+    Gm12226 
+    Gm13305 
+    Il11ra2 
+    Gm5835 
+    Gm4609 
+    Rps15a-ps6 
+    RP24-487F9.1 
+    Gm28364 
+    Gm9905 
+    Gm9825 
+    Gm12387 
+    Gm12183 
+    Gm18821 
+    Gm9434 
+    Gm5633 
+    Gm15645 
+    Gm5801 
+    Gm19807 
+    Gm12844 
+    AC118721.1 
+    Gm7690 
+    Gm10143 
+    Gm5915 
+    Gm20431 
+    Gm4462 
+    Gm9144 
+    Gm13552 
+    Gm16279 
+    Gm14150 
+    Gm10156 
+    Gm14176 
+    Gm5436 
+    Gm6265 
+    RP23-34E15.4 
+    Gm1826 
+    1500002C15Rik 
+    Gm28285 
+    Anp32-ps 
+    Gm6542 
+    Gm7776 
+    Gm11223 
+    Gm10012 
+    Ska2l-ps 
+    Taf9 
+    Gm10282 
+    Gm5564 
+    Gm2962 
+    Gm7102 
+    Gm6969 
+    Gm14686 
+    Gm9103 
+    Gm7887 
+    Eif1-ps1 
+    Gm4596 
+    Gm15530 
+    Gm4707 
+    Gm10254 
+    Gm7658 
+    Gm11993 
+    Hist1h2aa 
+    Hist1h2ac 
+    Hist1h2al 
+    Hist1h2ak 
+    Hist2h2aa2 
+    Hist1h2ad 
+    Gm11805 
+    Gm12470 
+    Gm9294 
+    Gm21399 
+    Tpm3 
+    Eci3 
+    Gm12411 
+    Gm14111 
+    Gm5900 
+    Gm12229 
+    Gm14270 
+    Dnhd1 
+    Gm10157 
+    Dnajc19-ps 
+    Gm5898 
+    Gm15204 
+    Stab1 
+    Gm28778 
+    Gm16089 
+    Gm3608 
+    Gm12184 
+    Gm6180 
+    Rpl35a-ps3 
+    Rpl35a-ps2 
+    Rpl35a-ps4 
+    Rpl35a-ps6 
+    Gm10243 
+    Gm7327 
+    Gm8163 
+    Gm5873 
+    Gm3571 
+    Fyb 
+    Doc2a 
+    Gm15381 
+    Gm9577 
+    Kpna2-ps 
+    Gm13422 
+    Gm6457 
+    Gm14393 
+    Gm14419 
+    Gm2004 
+    Eif3s6-ps1 
+    Ulk4 
+    Oaz2-ps 
+    RP23-13N24.1 
+    Gm15772 
+    Gm5577 
+    Gm16433 
+    Gm18284 
+    Gm5874 
+    Gm9387 
+    Morf4l1 
+    Rps18-ps3 
+    Sec61g 
+    Gm6640 
+    Gm2199 
+    Gm7816 
+    Gm5611 
+    Gm12870 
+    Gm12666 
+    A230005M16Rik 
+    Gm8822 
+    Gm5446 
+    Gm11478 
+    AK157302 
+    Gm9917 
+    Gm12475 
+    Gm6039 
+    Gm5434 
+    Gm7099 
+    Gm12715 
+    Gm17709 
+    Zbed5 
+    Gm12312 
+    Gm17638 
+    Gm1848 
+    Gm11221 
+    Tpm3-rs7 
+    Gm13443 
+    Gm8775 
+    Rps11-ps1 
+    Gm10704 
+    Gm14277 
+    Gm12346 
+    Park7 
+    Gm13611 
+    Gm6485 
+    Gm5812 
+    B430218F22Rik 
+    Gm6977 
+    Bloc1s2-ps 
+    Gm9828 
+    Gm8325 
+    Gm10116 
+    Gm15719 
+    Gm5117 
+    Rpl34-ps1 
+    Gm13127 
+    C430014B12Rik 
+    Gm10767 
+    Gm15536 
+    Gm6750 
+    Gm15453 
+    Gm26530 
+    Gm13456 
+    Gm8203 
+    Gm11185 
+    Gm10182 
+    Gm10232 
+    Gm14760 
+    Gm8394 
+    Gm21988 
+    Gm13487 
+    Gm1840 
+    Gm26762 
+    Gm12231 
+    Zfp605 
+    Atp5l-ps2 
+    Gm12989 
+    Csl 
+    Gm15790 
+    Pex13-ps 
+    Ydjc 
+    Il2 
+    Anapc15-ps 
+    Gm9364 
+    Tomt 
+    Gm5421 
+    6030443J06Rik 
+    Gm15725 
+    Gm15470 
+    Gm8566 
+    Gm10093 
+    Pnp2 
+    Gm16042 
+    Gm28048 
+    Gm10355 
+    Gm4535 
+    Rpl30-ps9 
+    Csnk2a1 
+    Gm15428 
+    Gm9800 
+    Gm7308 
+    Rpl10 
+    Khdrbs2 
+    Hist1h2be 
+    Hist1h2bh 
+    Hist1h2br 
+    Hist1h2bp 
+    Hist1h2bn 
+    Hist1h2bq 
+    Hist1h2bf 
+    Uchl4 
+    Gm6644 
+    Gm5593 
+    Gm7856 
+    Gm9105 
+    Gm28551 
+    Gm4294 
+    Gm17711 
+    Gm13050 
+    Rdh5 
+    Phykpl 
+    RP23-81C12.2 
+    Gm6104 
+    Gm10480 
+    Gm4737 
+    Gm9826 
+    Gm5638 
+    Gclm 
+    Rbmx2-ps 
+    Oaz1-ps 
+    Gm1815 
+    Gm2026 
+    A730015C16Rik 
+    Gm5499 
+    Gm12966 
+    Gm16861 
+    Rps10-ps2 
+    Gm20458 
+    DNAJC19; 
+    Itpa-ps1 
+    Gm6253 
+    Gm4879 
+    Gm8300 
+    Gm5039 
+    Gm16368 
+    Gm29609 
+    Gm11574 
+    Psme2b 
+    Gm16378 
+    Gm9923 
+    6430562O15Rik 
+    Cdk5rap2 
+    Gm10080 
+    Mrpl48-ps 
+    Gm28901 
+    Rps25-ps1 
+    Gm28635 
+    Gm14253 
+    Gm20425 
+    Rps2-ps10 
+    Gm14292 
+    Gm12328 
+    Rpl5 
+    Gm8818 
+    Gm12026 
+    Gm15163 
+    Gm20656 
+    Gm10145 
+    Sumo3 
+    Serinc4 
+    Ap3m1-ps 
+    Rps11-ps2 
+    Gm15421 
+    Gm11868 
+    Gm4149 
+    Gm20537 
+    Gm4540 
+    Gm12599 
+    Gm15596 
+    Gm13414 
+    Pcna-ps2 
+    Gm12669 
+    Rps6 
+    Rpl27 
+    Gm9816 
+    Rps13-ps1 
+    Rps19-ps6 
+    Gm13410 
+    Gm6728 
+    Amd2 
+    Gm16439 
+    Gm9727 
+    Eml5 
+    Hist1h2ab 
+    Hist2h2ac 
+    Hist2h2aa1 
+    Hist1h2ag 
+    Gm10169 
+    Psmd4 
+    Cdk4 
+    Ubb 
+    Ftl1 
+    Oaz1 
+    Gm1821 
+    Gnas 
+    Actb 
+    Drap1 
+    Ubc 
+    Rps9 
+    Rpl18 
+    Rpl35 
+    Uba52 
+    Rpl11 
+    Rpl15 
+    Eno1 
+    Eif5a 
+    Gm4735 
+    Psma7 
+    Ubxn11 
+    Vdac3-ps1 
+    Gm14269 
+    Hmgn2 
+    Hmgb1 
+    Sumo2 
+    Psma3 
+    H2afz 
+    Gtf2a2 
+    Hnrnpk 
+    Gm7964 
+    Ywhaq 
+    Dnaja1 
+    Morf4l2 
+    Hmgb1-ps5 
+    Hnrnph1 
+    Gm21983 
+    Zbed6 
+    Gm17377 
+    Gm21985 
+    Gm14820 
+    Samd11 
+    Gm4353 
+    Hspe1-ps2 
+    Rps24-ps3 
+    Gm4963 
+    Gm6274 
+    Eno1b 
+    Gm13461 
+    Rpl17-ps8 
+    Rpl36a-ps1 
+    Gm17181 
+    Gm16072 
+    Gm15900 
+    Gm14719 
+    Gm13910 
+    Emd 
+    Gm13880 
+    Srsf11 
+    Gm11273 
+    Rbm39 
+    Rps27a-ps2 
+    Rps3a2 
+    RP24-288J3.2 
+    Gm6055 
+    Gm9001 
+    Scp2-ps2 
+    Adck2 
+    Gm9755 
+    BC024978 
+    Cd63-ps 
+    Gm20503 
+    Map3k15 
+    RP24-372I24.4 
+    Ttll3 
+    Gm12854 
+    Tpt1-ps3 
+    Gm10250 
+    Gm18048 
+    Papolb 
+    Gm5913 
+    Gm4617 
+    Tubg2 
+    Gm5809 
+    Plk-ps1 
+    Gm8577 
+    Hist1h4j 
+    Hist1h4n 
+    Nrg4 
+    Gm14026 
+    Gm9200 
+    Gm14048 
+    A730017L22Rik 
+    Copg2 
+    Gm14127 
+    Psmc3 
+    Gm12141 
+    Gm9027 
+    Gm9892 
+    Gm15283 
+    Gm15519 
+    Gm14121 
+    Ino80dos 
+    Zdhhc2 
+    Gm14412 
+    Gm14409 
+    Gm14411 
+    Ttc3 
+    Hist1h2bl 
+    Gm6733 
+    Gm12112 
+    Snx30 
+    Gm12543 
+    Rps12-ps3 
+    Tmem234 
+    Gm3531 
+    Gm7664 
+    Slc12a6 
+    Gm14295 
+    Gm21974 
+    Gm26719 
+    Gm13563 
+    Gm5648 
+    Acta2 
+    Mff 
+    Gm15455 
+    Gm12799 
+    Gm12693 
+    Gm6710 
+    Vcp-rs 
+    Gm6136 
+    UBC 
+    Gm20417 
+    Gm20532 
+    Acaa1b 
+    Rsrc2 
+    Gm14288 
+    Gm14387 
+    Gm14416 
+    Gm14405 
+    Gm1980 
+    Gm14431 
+    Gm14400 
+    Gm8898 
+    Gm4723 
+    Gm9008 
+    Esd 
+    Gm14326 
+    Gm14399 
+    RP23-76C20.3 
+    Ndufab1 
+    Ssb 
+    Rbm3 
+    Cycs 
+    Rpl30-ps10 
+    Rpl12 
+    Gm11007 
+    Gm2007 
+    Gm14434 
+    Gm4459 
+    Far1os 
+    Hist1h4m 
+    Gm7984 
+    Gm14308 
+    Hist1h2bb 
+    Gm8228 
+    Ppp1r2-ps4 
+    Ppp1r2-ps2 
+    Gm15975 
+    Tlcd1 
+    Gm8783 
+    Gm15801 
+    Gm9774 
+    Csnk1a1 
+    Ankrd42 
+    Gm5530 
+    Gm12663 
+    RP23-270P19.5 
+    Gm8615 
+    Gm15210 
+    1810014B01Rik 
+    Gm13625 
+    Gm11794 
+    Gm15065 
+    Gm12818 
+    1700028K03Rik 
+    Gm14373 
+    Gm15964 
+    Gm12444 
+    Gm12992 
+    6330549D23Rik 
+    Gm6223 
+    Kxd1 
+    Gm14403 
+    Gm8121 
+    Fnd3c2 
+    Gm6325 
+    Gm5133 
+    Hmga1-rs1 
+    Gm10052 
+    Tcea1-ps1 
+    Agbl5 
+    Gm10031 
+    Tctn1 
+    Rbm6-ps1 
+    Uimc1 
+    Gm9840 
+    9130401M01Rik 
+    RP23-292F19.4 
+    Rpl9-ps6 
+    Gm5946 
+    Ap2m1 
+    Gm13509 
+    Pp2d1 
+    Toporsos 
+    Gm10039 
+    Gm8226 
+    Ints5 
+    Aifm2 
+    Metap2 
+    Gm16042 
+    Rpl39-ps 
+    Gm14586 
+    Arpp19 
+    Ywhae 
+    Atp5j 
+    Skp1a 
+    Prdx1 
+    Paip2 
+    Cct8 
+    Atp5c1 
+    Gm14681 
+    Gm14284 
+    Erh 
+    Rps27l 
+    Anp32a 
+    Gm6501 
+    Gm28043 
+    Tceal7 
+    Gm16096 
+    RP23-56B11.5 
+    Ranbp1 
+    Set 
+    Cnbp 
+    Srsf2 
+    Hspa8 
+    Cct5 
+    H2afy 
+    Fkbp4 
+    Hnrnpf 
+    Pfn1 
+    Gapdh 
+    Snrpb 
+    Gnb2l1 
+    Hsp90ab1 
+    Fkbp1a 
+    Atp5b 
+    Psmc4 
+    Aldoa 
+    Gm16286 
+    Eef1d 
+    Ramp2 
+    Timm23 
+    Nme1 
+    Nop56 
+    Vps29 
+    Cntd1 
+    Gm6740 
+    Gm6755 
+    Gm15824 
+    Gm7672 
+    Gm21411 
+    Zfp534 
+    Gm8935 
+    Gm13051 
+    Gm13235 
+    Gm13154 
+    Gm13151 
+    Gm13150 
+    Gm13147 
+    Gm13225 
+    Gm13212 
+    Gm15697 
+    Gm7666 
+    Map3k12 
+    Gm13477 
+    Tmem55b 
+    Spopl 
+    Gm27029 
+    Tagap 
+    E430024P14Rik 
+    Gm14322 
+    Gm14418 
+    Gm26669 
+    Actg1 
+    Tuba1a 
+    Gnb1 
+    1110004F10Rik 
+    Gm4849 
+    Gm6169 
+    Gm13669 
+    Gm12097 
+    B130046B21Rik 
+    Hist1h3b 
+    Hist1h3f 
+    Hist1h3h 
+    Hist1h3c 
+    Rbm3os 
+    Atp1b1 
+    Gm29100 
+    Gm26825 
+    Rbm25 
+    Crry-ps 
+    Ndufb8 
+    Dbi 
+    Gm13068 
+    Oplah 
+    Gm12418 
+    Gm8546 
+    Tsg101 
+    4933427G23Rik 
+    Gm6776 
+    Gm17200 
+    Gm14443 
+    Far2 
+    Gas5 
+    Eif4g1 
+    Gm7895 
+    Hnrnpm 
+    Pfkp 
+    E130208F15Rik 
+    Irf5 
+    Prpf39 
+    Atn1 
+    Hist3h2a 
+    Arf4 
+    Zfp931 
+    0610010K14Rik 
+    Cks1b 
+    Tuba1c 
+    Gm26770 
+    Gm6768 
+    Sap18 
+    Rps8-ps1 
+    Gm13237 
+    BC002163 
+    Gm10349 
+    Gm3788 
+    Gm10241 
+    RP24-426M1.3 
+    Gm6829 
+    Gm7332 
+    Rps15a-ps7 
+    Gm1866 
+    Gm15542 
+    Gm20430 
+    Gm13961 
+    Gm21596 
+    Papola 
+    Gm2223 
+    Slc25a35 
+    Gm9791 
+    Gm20427 
+    Gm11855 
+    Prdx2 
+    H3f3a 
+    Gpx4 
+    Ndufa7 
+    Myl12a 
+    Myl12b 
+    Atp6v0c 
+    Tecr 
+    Ptov1 
+    Cope 
+    Brd3 
+    Maf1 
+    Gm7335 
+    Gm28036 
+    Gm14391 
+    Snrpa1 
+    Bud31 
+    Gm6473 
+    Prg4 
+    4930524O07Rik 
+    Gm4724 
+    Hist1h2bg 
+    Hist1h2bm 
+    Gm26768 
+    Gm26648 
+    Gm17509 
+    Slc24a5 
+    Gm6493 
+    Ddx5 
+    Ash2l 
+    Pcdhga10 
+    PCDHGA9 
+    Pcdhgb8 
+    Pcdhga1 
+    Pcdhgb2 
+    Pcdhgb1 
+    PCDHGC5 
+    Pcdhgb5 
+    Pcdhgb4 
+    PCDHGB6 
+    PCDHGB6 
+    Pcdhga6 
+    Pcdhga5 
+    PCDHGB6 
+    Pcdhgb6 
+    Pcdhga4 
+    Pcdhga7 
+    Pcdhga2 
+    PCDHGA12 
+    RP23-407E2.30 
+    PCDHGB6 
+    Pcdhgb7 
+    Rpl3-ps1 
+    Gm20498 
+    Tmbim6 
+    Gm20518 
+    Slc25a3 
+    Ube2v1 
+    Wdr89 
+    RP24-245M20.4 
+    mt-Nd3 
+    Gm11189 
+    Gm26771 
+    Ssr2 
+    Mamdc4 
+    Dynlt1a 
+    Cdk2ap1 
+    Oxnad1 
+    Gm7869 
+    Gm2869 
+    Srp19 
+    Gm7008 
+    Gm26625 
+    Gm20784 
+    Gm21378 
+    Btg3 
+    Tcf12 
+    Nnat 
+    Ube2l3 
+    Dnah11 
+    2610020C07Rik 
+    Gm21989 
+    Myo1h 
+    Gm13789 
+    Gm29247 
+    Gm20517 
+    Ier3ip1 
+    Gm26526 
+    Wdr20rt 
+    Zfa-ps 
+    Gm14798 
+    Gm14410 
+    Gm4631 
+    Gm14305 
+    1700037C18Rik 
+    Gm20695 
+    Nanp 
+    Gm28539 
+    Gm5903 
+    Adat3 
+    Gm7785 
+    Gm6871 
+    Tvp23a 
+    DHX30; 
+    DHX30; 
+    Gm14296 
+    2210418O10Rik 
+    Ndufb5 
+    Gm21811 
+    Ube2m 
+    Etohi1 
+    Gm14327 
+    Gm11008 
+    Gm14440 
+    Gm14435 
+    Gm14306 
+    Gm8923 
+    Gm14420 
+    Gm14421 
+    Ptcd1 
+    Tubb2b 
+    Zkscan4 
+    Amd-ps4 
+    Amd-ps1 
+    Amd-ps3 
+    Zranb2 
+    Cbx3 
+    Gm26668 
+    Dhx32 
+    Polr2e 
+    Snrpa 
+    Gpx1 
+    Ndufv1 
+    Adrm1 
+    Ndufs7 
+    Atp5g2 
+    Gm15501 
+    Cops6 
+    Gm10138 
+    Atp5l 
+    Gm9762 
+    Prex2 
+    Gm6226 
+    Tmem116 
+    B930094E09Rik 
+    Zfp207 
+    Nae1 
+    Orc5 
+    Coil 
+    Phospho2 
+    Mrpl23 
+    Txn2 
+    Napa 
+    Ddx39b 
+    Uqcrc1 
+    Idh2 
+    Bsg 
+    Stoml2 
+    Gm12696 
+    Csnk2b 
+    Psmd2 
+    Vps72 
+    Maged2 
+    Immt 
+    Rnaset2a 
+    Mettl23 
+    Mtif3 
+    Gm26899 
+    Gm9392 
+    Rab14 
+    Gm26773 
+    Gm10340 
+    Gm8108 
+    Gm2956 
+    Gm3005 
+    Gm3752 
+    Gm2974 
+    Gm3373 
+    Gm3500 
+    Gm5796 
+    Gm3194 
+    Gm3383 
+    Gm3558 
+    Gm3411 
+    Gm3696 
+    Gm3173 
+    Gm3264 
+    Gm3317 
+    Gm3667 
+    Gm3239 
+    Gm3629 
+    Gm3252 
+    Gm3164 
+    Gm3095 
+    Gm3002 
+    Gm3488 
+    Gm3591 
+    Gm2237 
+    Gm3739 
+    Gm10406 
+    Gm3020 
+    Gm10409 
+    Gm3248 
+    2610042L04Rik 
+    Gm3468 
+    Gm8281 
+    Gm2897 
+    Gm3636 
+    Wdr83 
+    Gm12751 
+    Hist1h2bk 
+    Hist1h2bj 
+    Zfp934 
+    Zfp808 
+    Gm3604 
+    Lix1 
+    Gm11578 
+    Gon4l 
+    Ddx19b 
+    Psme2 
+    Phb2 
+    Prdx6 
+    Nsfl1c 
+    Eif2s2 
+    Prpsap1 
+    Iscu 
+    Wbscr22 
+    Fau 
+    Mtx1 
+    Taok3 
+    Tcf7l2 
+    Pisd 
+    Pisd-ps2 
+    Gm20671 
+    Pisd-ps1 
+    Spcs1 
+    mt-Nd4l 
+    Hmg20b 
+    Pdlim7 
+    Mpnd 
+    Jmjd8 
+    4933431E20Rik 
+    Zfp758 
+    Dst 
+    DST 
+    AC123072.1 
+    Acin1 
+    Slbp 
+    Ccne2 
+    Cdc6 
+    Gm9430 
+    Bcas2 
+    Cops3 
+    2700094K13Rik 
+    Dnajb6 
+    1110008F13Rik 
+    Hn1 
+    Gemin7 
+    Aurkaip1 
+    Nde1 
+    Hnrnpr 
+    Nup88 
+    Pbrm1 
+    U2af1l4 
+    Gm17484 
+    Rrnad1 
+    Srsf9 
+    Bccip 
+    H3f3c 
+    Pin4 
+    Dync1i2 
+    1810026B05Rik 
+    Brix1 
+    Tdg 
+    Rbmx 
+    Mrpl20 
+    Parl 
+    Bex1 
+    Lrba 
+    Pvt1 
+    Gm11284 
+    Chn1os3 
+    Hdgf 
+    Rcc2 
+    Aph1a 
+    Luc7l 
+    Pcnp 
+    Zfp947 
+    2210404O09Rik 
+    Ahsa2 
+    Akt2 
+    Akt2-ps 
+    Cwc22 
+    Gm13691 
+    Gm13698 
+    Gm13693 
+    Gm13697 
+    Gm13694 
+    Gm13696 
+    Gm13695 
+    Guk1 
+    Fscn1 
+    Ccnd3 
+    Gnb2 
+    Dda1 
+    Nubp1 
+    Rbm4 
+    Gm21992 
+    Rpl13 
+    Rplp0 
+    Rpl41 
+    Rps5 
+    Rps18 
+    Rps14 
+    Gm10076 
+    Cox4i1 
+    Rps19 
+    Serf2 
+    Rps10 
+    Cox7c 
+    Atp5j2 
+    Tmsb10 
+    Romo1 
+    Rplp2 
+    Rpl38 
+    Tomm6 
+    Rps3 
+    Uqcr10 
+    Rpl6 
+    Rpl10a 
+    Mrps21 
+    Atp5d 
+    Uqcr11 
+    Atp5g1 
+    Rpl19 
+    Rps2 
+    Cox5b 
+    Ybx1 
+    Polr2l 
+    Lsm4 
+    Gm14303 
+    Psmb2 
+    Gm10443 
+    Psmb6 
+    Mdh2 
+    Pebp1 
+    Pafah1b3 
+    Dynlrb1 
+    Edf1 
+    Rpl28 
+    Mrpl21 
+    Timm10b 
+    Rps16 
+    Polr2j 
+    Fis1 
+    Bloc1s1 
+    Smdt1 
+    Ndufa3 
+    Tmem256 
+    Sdhb 
+    Mrps24 
+    Uqcc2 
+    Ndufb10 
+    Pfdn5 
+    Ndufa12 
+    Btf3 
+    Gm10123 
+    Ppia 
+    Atp5o 
+    Atp5h 
+    Rpl13a 
+    Rpl35a 
+    Rpl31 
+    Rps8 
+    Rpl26 
+    Rps28 
+    Eef1a1 
+    Rpl9 
+    Rpl27a 
+    Gm8186 
+    Rpl24 
+    Rpl3 
+    Rpl22 
+    Pdap1 
+    Tcf4 
+    AI413582 
+    Tmem134 
+    Rsrc1 
+    Ppdpf 
+    Znhit1 
+    Rnaseh2c 
+    Fam166a 
+    Eif4a-ps4 
+    Gm9761 
+    Gm10193 
+    Gm4202 
+    Rpsa-ps10 
+    Gm10180 
+    Gm3699 
+    Gm10736 
+    Gm23134 
+    Gm11966 
+    Gm15564 
+    Gm14539 
+    Gm20545 
+    Gm23419 
+    Gm12191 
+    Gm10698 
+    Rps16-ps2 
+    Gm13167 
+    Rpl14-ps1 
+    Gm5776 
+    Gm9843 
+    Dynlt1-ps1 
+    Gm6472 
+    mt-Co3 
+    Rpl23a-ps3 
+    Gm5931 
+    Gm5601 
+    Gm13835 
+    Gm9385 
+    Gm13597 
+    Gm5641 
+    Rpl19-ps11 
+    Rpl38-ps2 
+    Rab11b-ps2 
+    Llph-ps2 
+    Gtdc1 
+
+2\. Irreproducible between samples. 
+    Tpi1 
+    Aldoa 
+    Gapdh 
+    Gm3839 
+    Gm10327 
+    Gm2308 
+    Gm3272 
+    Gm12416 
+    Gm8318 
+    Gm8756 
+    Gm14111 
+    Gm14148 
+    Gm7251 
+    Gm13464 
+    Gm10293 
+    Gm3222 
+    Gm4691 
+    Gm16470 
+    Gm2546 
+    Gm12286 
+    Gm11953 
+    Gm5523 
+    Gm4335 
+    Gm10481 
+    Gm5507 
+    Gm10284 
+    Gm4609 
+    Gm11185 
+    Gm8825 
+    Gm3534 
+    Gm8330 
+    Gm8824 
+    Gm8055 
+    Gm2445 
+    Gm4518 
+    Gm6316 
+    Gm8927 
+    Gm15191 
+    Gm10291 
+    Gm3671 
+    Gm12017 
+    Gm10359 
+    Gm4217 
+    Gm11557 
+    Gm12419 
+    Gm5559 
+    Gm2606 
+    Gm9081 
+    Gm18859 
+    Gm13394 
+    Gm13292 
+    Gm2193 
+    Gm10313 
+    Gm13882 
+    Gm5863 
+    Gm11453 
+    Gm15593 
+    Gm2383 
+    Gm8349 
+    Gm12070 
+    Gm14760 
+    Gm8100 
+    Gm5652 
+    Gm3809 
+    Gm8565 
+    Gm4929 
+    Gm4654 
+    Gm5430 
+    Gm9755 
+    Gm1840 
+    Pgk1-rs7 
+    RP23-34E15.4 
+    Aldoart1 
+    Gm12141 
+    Eno1b 
+    Ldha-ps 
+    Ldha-ps2 
+    Gm12033 
+    Gm8864 
+    Gm10358 
+    Gm9034 
+    Gm4575 
+    Gm29668 
+    Gm7507 
+    Gm7985 
+    Gm12537 
+    Gm5138 
+    Gm2574 
+    Gm27023 
+Gm10335 
+Gm13196 
+Gm7363 
+Gm11353 
+Rpl31-ps14 
+Gm12411 
+Gm14845 
+Gm2174 
+Ccnd3-ps 
+Rpsa-ps4 
+Gm7027 
+Dnajc19-ps 
+Rps10-ps2 
+Gm7206 
+Rpl10-ps3 
+Rpsa-ps12 
+Rpl9-ps7 
+Gm10913 
+Gm11599 
+Rpl17-ps9 
+Rpl31-ps16 
+Gm8292 
+Gm16378 
+Gm7808 
+Gm9457 
+Gm4799 
+Rpl22-ps1 
+Gm10247 
+Rpl31-ps11 
+Gm3436 
+Spcs2-ps 
+Gm10307 
+Gm9174 
+Gm9013 
+Gm6311 
+Gm12435 
+Gm8623 
+Rps2-ps6 
+Gm16380 
+Gm7589 
+Rps8-ps1 
+Rpl19-ps1 
+Gm12013 
+Gm10689 
+Gm5616 
+Gm8181 
+Gm15776 
+Npm3-ps1 
+Gm29257 
+Rps19-ps1 
+Rps19-ps2 
+Rpl13-ps3 
+Gm10132 
+Gm9234 
+Gm5921 
+Gm5809 
+Gm5879 
+Gm7665 
+Gm10071 
+Gm9320 
+Gm12933 
+Rps13-ps1 
+Gm11675 
+Gm4997 
+Gm9392 
+Gm12543 
+Gm6286 
+Gm10224 
+Gm20900 
+Gm5963 
+Gm14253 
+Gm14269 
+Gm10704 
+Tcea1-ps1 
+Gm15421 
+Gm9892 
+Gm4540 
+Gm9493 
+Gm5456 
+Gm7266 
+Rpl32-ps 
+Gm6195 
+Cd9-ps 
+Gm8865 
+Gm8226 
+Eif3s6-ps1 
+RP23-56B11.5 
+Gm6467 
+Gm14706 
+Gm10480 
+Gm13050 
+Gm12966 
+Gm6344 
+Gm10232 
+Gm4604 
+Gm4950 
+M6pr-ps 
+Gm11361 
+Rps2-ps5 
+Gm5611 
+Gm15210 
+Anp32b-ps1 
+Pcna-ps2 
+Gm15501 
+Gm10163 
+Gm11824 
+Gm11993 
+Gm6767 
+Gm5045 
+Gm11951 
+Rps18-ps1 
+Gm11221 
+Gm13443 
+Gm12844 
+Eif1-ps1 
+Gm15361 
+Gm4596 
+Gm8822 
+Gm6382 
+Gm11605 
+Stxbp3b 
+Gm10698 
+Gm6263 
+Gm6169 
+Gm10320 
+Rpl17-ps10 
+Gm5786 
+Eif5al3-ps 
+Rpl21-ps8 
+Rpsa-ps11 
+Gm5428 
+Gm10036 
+Gm15163 
+Gm21399 
+Gm7204 
+WI1-1003N17.1 
+Gm9840 
+Psme2b 
+Gm8566 
+Gm5637 
+Gm26951 
+Gm11249 
+Rps15-ps2 
+Rpl36-ps3 
+Rpl36a-ps1 
+Gm15453 
+Rps25-ps1 
+Gm13611 
+Rps24-ps3 
+Gm4963 
+Gm9625 
+Gm7658 
+Gm12254 
+Rpl34-ps1 
+Gm15772 
+Gm13456 
+Gm12174 
+Rps26-ps1 
+Gm13436 
+Rps3a3 
+Rps18-ps3 
+Gm13680 
+Gm11478 
+Rps10-ps1 
+Gm6274 
+Rps15a-ps7 
+Gm4149 
+Gm10073 
+Gm5835 
+Rpl3-ps1 
+Rps27a-ps2 
+Gm5805 
+Gm6136 
+Rpl23a-ps3 
+Gm8730 
+Rps19-ps6 
+Gm14586 
+Rpl19-ps11 
+Rps3a2 
+Rpl9-ps6 
+Rpl14-ps1 
+Gm9294 
+Gm12989 
+Gm3531 
+Gm8394 
+Rpsa-ps10 
+Oaz1-ps 
+Rpl18-ps1 
+Rpl36-ps2 
+Sapcd1 
+Phf19 
+Rps15a-ps6 
+Gm9385 
+Rps27 
+Fam221a 
+Rpl18a-ps1 
+Gm9888 
+Rps15a-ps5 
+Rnu3a 
+Rpl17-ps5 
+Rps12l1 
+Rps12-ps3 
+Gm8624 
+Rpl22l1 
+2410006H16Rik 
+Gm26619 
+Rpl17-ps8 
+Gm8430 
+Rps27rt 
+Rpl39-ps 
+Trim21 
+C1galt1 
+Mbd2 
+Smco4 
+Npm3 
+Fbxl14 
+Elk4 
+Slk 
+Map3k1 
+    Bloc1s2-ps 
+    Gm5867 
+    Gm20563 
+    Gm12791 
+    Gm2541 
+    Gm9791 
+    Gm13880 
+    Gm4875 
+    Tubb4b-ps1 
+    1700022I11Rik 
+    Gm4895 
+    Gm11560 
+    Gm14121 
+    Gm5564 
+    Gm13991 
+    Rab11b-ps2 
+    Gm16589 
+    Gm1848 
+    Gm11868 
+    Gm6180 
+    Gm6485 
+    Gm12183 
+    Gm9816 
+    H3f3a-ps2 
+    Gm5555 
+    Vcp-rs 
+    Gm12669 
+    Gm9824 
+    Gm7816 
+    Gm5644 
+    RP24-252K15.3 
+    Gm6501 
+    Gm4750 
+    Gm8464 
+    RP23-245M20.4 
+    Gm13127 
+    Gm10819 
+    Gm4202 
+    Kansl2-ps 
+    4930526A20Rik 
+    Gm11838 
+    Gm5898 
+    Gm8494 
+    Gm12345 
+    Gm2423 
+    Actg-ps1 
+    Rbpsuh-rs3 
+    Gm6542 
+    Gm13453 
+    RP23-174P13.4 
+    Gm9800 
+    Gm4617 
+    Gm12355 
+    Gm8806 
+    Gm10254 
+    Gm5931 
+    Gm5580 
+    Gm7935 
+    Eif4a-ps4 
+    RP23-13N24.1 
+    Gm3608 
+    Gm7327 
+    Gm5576 
+    Gm16379 
+    Gm4735 
+    Gm10169 
+    Gm9144 
+    Gm2991 
+    Gm5525 
+    Gm1826 
+    Gm15975 
+    Gm8752 
+    Gm5633 
+    Gm14277 
+    Gm6493 
+    RP23-347F4.3 
+    Gm14270 
+    Gm12115 
+    Gm6457 
+    Gm1815 
+    Gm4353 
+    Gm26825 
+    Gm5446 
+    Hmgb1-ps7 
+    Gm9078 
+    Gm5874 
+    Gm12418 
+    Gm7887 
+    Gm11598 
+    Tma7-ps 
+    Gm9169 
+    Gm5801 
+    Gm6223 
+    Gm10156 
+    Gm2199 
+    Gm13331 
+    Gm13077 
+    Gm12565 
+    Gm12929 
+    Gm9727 
+    Gm19587 
+    Gm7099 
+    Gm7258 
+    Gm28883 
+    Gm5422 
+    Gm5454 
+    Gm4943 
+    Gm8546 
+    Gm13328 
+    Gm6341 
+    Gm12571 
+    Ap3s1-ps1 
+    Gm12335 
+    Gm6984 
+    Gm9855 
+    Gm2223 
+    Gm11226 
+    Gm4835 
+    Gm5943 
+    Gm12988 
+    Anp32-ps 
+    Gm6142 
+    Rpl9-ps4 
+    Gm12663 
+    Ppp1r2-ps2 
+    Hmgb1-ps2 
+    Hmgb1-ps4 
+    Gm12362 
+    Hmgb1-ps9 
+    Gm16373 
+    Rps23-ps1 
+    Defa22 
+    Gm15308 
+    Defa21 
+    Gm3839 
+    Calr-ps 
+    Gm12389 
+    Gm10269 
+    Gm6788 
+    Gm10263 
+    Gm5518 
+    Gm15484 
+    Gm6736 
+    Gm10357 
+    Hmgn2-ps1 
+    Gm7879 
+    Gm27219 
+    Gm5391 
+    Gm12693 
+    Eif3s6-ps2 
+    Gm11847 
+    Gm4462 
+    Gm12226 
+    AC098736.2 
+    RP24-374C7.1 
+    Gm8325 
+    Gm9923 
+    Gm15590 
+    RP23-123L9.5 
+    Gm5510 
+    Gm15900 
+    Gm20746 
+    Rnf170-ps 
+    Gm9763 
+    Gm12906 
+    Gm9845 
+    Gm10179 
+    Gm13612 
+    Gm6829 
+    Ube2nl 
+    Gm15720 
+    Rpl38-ps1 
+    Gm8894 
+    Gm13493 
+    Gm6304 
+    Gm12161 
+    Gm18284 
+    Gm13123 
+    Gm15899 
+    RP23-302C16.5 
+    Gm7931 
+    Gm3150 
+    Gm20302 
+    Rpl35a-ps3 
+    Rpl35a-ps2 
+    Rpl35a-ps4 
+    Gm10243 
+    Rpl35a-ps6 
+    Gm8741 
+    Gm7936 
+    Gm14292 
+    Gm11703 
+    Gm6900 
+    Gm6061 
+    Gm5940 
+    Gm11633 
+    Gm10145 
+    Gm13552 
+    Gm12112 
+    Rpsa-ps2 
+    Gm13532 
+    Gm14323 
+    Gm15483 
+    Gm14176 
+    RP23-243N8.1 
+    H3f3a-ps1 
+    Gm20545 
+    Gm6421 
+    Gm8524 
+    Gm10257 
+    Ppp1r2-ps4 
+    Gm13414 
+    Csnk2a1 
+    Rpl30-ps8 
+    Rps23-ps2 
+    Gm5830 
+    Gm12178 
+    Mrps36-ps2 
+    Gm13771 
+    Gm6750 
+    Gm29397 
+
+3\. Reproducible A 
+    Metrn 
+    Gm26694 
+    RP23-81C12.2 
+    Lipe 
+    Gtpbp3 
+    Pex10 
+    Hdac8 
+    Polr3gl 
+    Dnajc7 
+    Prmt1 
+    Sema4c 
+    Arl2bp 
+    Fus 
+    9930104L06Rik 
+    Ddit4 
+    Lmbr1l 
+    Ube2e1 
+    Ring1 
+    Zfp787 
+    Nfkbil1 
+    Rnf25 
+    Trappc3 
+    Ormdl3 
+    Ppp1r37 
+    C030034I22Rik 
+    Snx8 
+    Slc35a2 
+    Manbal 
+    Fkbp5 
+    Bahd1 
+    Gm10167 
+    AW011738 
+    0610009E02Rik 
+    Carhsp1 
+    1700028N14Rik 
+    Prdm9 
+    1700018L02Rik 
+    Bdkrb2 
+    Gm10080 
+    Sema3g 
+    Fam43a 
+    Fam129b 
+    Tnks1bp1 
+    Rab13 
+    Zfp768 
+    Tef 
+    Proca1 
+    Itm2c 
+    Gm5763 
+    Oaz2-ps 
+    Dhx34 
+    Gm13381 
+    Anp32e 
+    Arhgap11a 
+    Fbl 
+    Mta2 
+    Gar1 
+    Lmnb1 
+    Lmnb2 
+    RP23-16D16.12 
+    Tkt 
+    Pgd 
+    Gm6254 
+    Cntf 
+    Gm17092 
+    Gm15190 
+    Gm15481 
+    Ppp1r18os 
+    Gm15954 
+    4933429H19Rik 
+    Tom1 
+    Gm25777 
+    RP23-403H2.3 
+    1700019L03Rik 
+    Gm26541 
+    1700041G16Rik 
+    Gm17349 
+    Gm26269 
+    Ocel1 
+    Mfsd12 
+    Mafk 
+    4930404N11Rik 
+    Nomo1 
+    Efhd2 
+    St6galnac6 
+    Eml2 
+    Rapgef3os2 
+    Got2 
+    Got2-ps1 
+    Iba57 
+    Eef2k 
+    Gm15774 
+    4933428G20Rik 
+    1700084C06Rik 
+    C230066G23Rik 
+    Gm15764 
+    Gm25745 
+    Tes3-ps 
+    AC055766.1 
+    Gm15788 
+    Gm16372 
+    4831440E17Rik 
+    Vma21-ps 
+    Gm15502 
+    Gm27505 
+    Gm13428 
+    Gm20681 
+    Gm16181 
+    Gm6238 
+    Tsix 
+    Xist 
+    Gm21182 
+    RP23-421C2.2 
+    Gm7331 
+    RP23-448A11.17 
+    Gm13213 
+    Gm12036 
+    Isyna1 
+    Dnmt3a 
+    Gm16617 
+    9830147E19Rik 
+    Gm21994 
+    Vmn2r-ps20 
+    Gm16062 
+    Gm26102 
+    2310067B10Rik 
+    RP23-280F6.6 
+    Gm16253 
+    WI1-1981I9.2 
+    Gm12366 
+    Fau-ps2 
+    Gm13886 
+    Gm16125 
+    Gm13786 
+    Gm11672 
+    Lmln 
+    Gm25445 
+    Invs 
+    Zcwpw1 
+    RP24-487F9.1 
+    Nespas 
+    Gm7664 
+    Tstd2 
+    B130055M24Rik 
+    Jarid2 
+    RP23-474B13.2 
+    Gm11400 
+    Gm17705 
+    RP24-562D16.4 
+    Rccd1 
+    Gm26853 
+    Gm26804 
+    RP23-416H10.8 
+    Gm15342 
+    RP23-26I10.2 
+    RP23-79K5.3 
+    RP24-291H9.1 
+    RP24-178N19.2 
+    RP23-380F8.2 
+    Gm26603 
+    RP24-111C16.1 
+    RP23-379F6.3 
+    Spaca6 
+    RP23-102K8.1 
+    Gm26742 
+    RP24-378J8.2 
+    RP23-27C10.2 
+    Gm15869 
+    Gm26890 
+    Gm21781 
+    Gm28791 
+    Gm26836 
+    RP24-81A5.2 
+    Gm13204 
+    Gm11839 
+    Gm17826 
+    Gm13543 
+    Gdap10 
+    Gm21886 
+    RP23-101P2.6 
+    Gm13689 
+    Gm29036 
+    Dnajb7 
+    Gm13665 
+    Gm17477 
+    RP23-134L6.5 
+    9130020K20Rik 
+    Gm17388 
+    RP23-395H6.2 
+    Hm629797 
+    RP23-461P14.1 
+    RP23-296I6.8 
+    RP23-296I6.7 
+    Gm10615 
+    4930518I15Rik 
+    Gm26772 
+    Gm13586 
+    RP23-102B12.2 
+    Gm26816 
+    Gm4707 
+    Gm16552 
+    Gm26563 
+    RP24-321N12.1 
+    RP24-398O5.2 
+    RP23-125I14.1 
+    RP23-116P18.2 
+    2210017G18Rik 
+    Gm26814 
+    RP24-188H2.3 
+    Gm12917 
+    Gm17022 
+    Gm27006 
+    Gm12774 
+    Gm26773 
+    RP23-220D12.13 
+    RP24-167M10.4 
+    RP23-306B14.3 
+    Gm28085 
+    Kcnq1ot1 
+    RP23-269E5.10 
+    RP23-461O23.2 
+    RP23-16D16.5 
+    RP24-221A23.7 
+    RP23-383N15.1 
+    RP23-16D16.14 
+    RP23-435E15.3 
+    Gm26749 
+    RP23-477C13.3 
+    RP23-46L5.1 
+    RP23-125I14.2 
+    RP23-471J16.2 
+    Gm28277 
+    Gm26625 
+    Gm17275 
+    Gm26516 
+    RP24-447G12.2 
+    Prox2os 
+    Gm3235 
+    Htt 
+    Gm17709 
+    Gm15879 
+    4930404I05Rik 
+    Gm26668 
+    Gm12808 
+    Gm12749 
+    RP23-340N22.4 
+    RP23-448A11.16 
+    Gm26824 
+    Gm13562 
+    Rps2-ps11 
+    Gm16523 
+    Gm26931 
+    Gm29488 
+    Ube4bos3 
+    Gm10277 
+    BC046401 
+    RP23-364A24.1 
+    Gm19967 
+    RP23-412L18.5 
+    Gm14853 
+    Ube4bos1 
+    RP24-429G21.5 
+    RP23-93D12.1 
+    RP24-282D16.8 
+    3110021A11Rik 
+    Gm17907 
+    RP24-93F24.1 
+    RP24-93F24.2 
+    Gm5453 
+    RP23-380F8.3 
+    RP23-380F8.1 
+    RP23-346I1.5 
+    Gm15696 
+    Gm12403 
+    RP23-296I6.10 
+    Gm25082 
+    RP23-323E20.2 
+    Recql5os1 
+    Gm6612 
+    Gm6478 
+    Gm5915 
+    RP23-251N15.2 
+    Gm28192 
+    Gm12734 
+    Gm11713 
+    Gm26789 
+    RP23-328J8.2 
+    Gm16091 
+    Gm16326 
+    RP24-566B6.2 
+    Gm5459 
+    Gm26944 
+    Gm12739 
+    Gm27754 
+    Gm17981 
+    Gm17151 
+    Gm8738 
+    C730034F03Rik 
+    Gm15186 
+    5730405O15Rik 
+    RP23-183O12.1 
+    Gm13940 
+    Gm26699 
+    Gm11769 
+    RP24-260D21.1 
+    RP23-114L12.3 
+    RP23-26I10.5 
+    RP23-346I1.4 
+    RP24-300L5.1 
+    Gm26860 
+    Gm26841 
+    RP24-286D13.2 
+    RP23-250G8.14 
+    RP23-201C3.5 
+    Gm28424 
+    Gm11510 
+    Gm23887 
+    Gm26720 
+    Rps2-ps9 
+    Gm13622 
+    RP24-193D9.3 
+    RP23-473M13.2 
+    Gm26609 
+    Gm11831 
+    RP24-297J20.5 
+    Gm13171 
+    Gm6058 
+    1700110C19Rik 
+    Gm15739 
+    Gm11745 
+    Gm13380 
+    Fsbp 
+    Gm16132 
+    Gm20696 
+    Pou5f2 
+    RP23-16D16.13 
+    RP23-79K5.4 
+    Gm18821 
+    Hmgb1-ps6 
+    Gm14425 
+    Gm17195 
+    Gm6397 
+    Gm20519 
+    Gm26387 
+    Gm13831 
+    Gm11722 
+    Gm12322 
+    Gm19427 
+    E130304I02Rik 
+    Gm21887 
+    Rps12-ps26 
+    Gm23094 
+    Gm9378 
+    Mthfr 
+    Gm8378 
+    Gm15122 
+    Apc-ps1 
+    Gm16304 
+    Igflr1 
+    Rps13-ps4 
+    Gm12207 
+    Gm15539 
+    Gm21963 
+    Gm26533 
+    Gm7645 
+    Gm20111 
+    Gm11712 
+    Gm26415 
+    Lnpep 
+    Gm15859 
+    RP24-193D9.4 
+    RP24-270A10.5 
+    RP23-125I14.3 
+    Gm16318 
+    Gm14227 
+    Gm28112 
+    Gm9938 
+    Ptar1 
+    RP24-325N3.3 
+    RP23-260F15.2 
+    Gm11281 
+    Gm12987 
+    Gm15989 
+    RP23-73N8.1 
+    RP24-282D16.9 
+    RP23-444I6.3 
+    RP23-372I17.5 
+    RP23-395G18.1 
+    Gm20407 
+    Gm16001 
+    Gm21958 
+    Gm17068 
+    Gm13351 
+    Gm22637 
+    Gm25535 
+    Gm13827 
+    Gm10916 
+    Gm27241 
+    Gm24056 
+    Lrrc75aos2 
+    Gm16315 
+    Gm23458 
+    Gm22027 
+    Gm2531 
+    Gm9085 
+    Rpl23a-ps2 
+    Gm15868 
+    Gm12735 
+    Gm16210 
+    Gm28693 
+    RP24-432B3.3 
+    Gm17056 
+    Gm20692 
+    RP23-2M16.4 
+    Gm13868 
+    Fth-ps2 
+    Gm13572 
+    Gm7541 
+    Gm22596 
+    Gm12944 
+    Gm20537 
+    Gm10087 
+    Gm17228 
+    Uprt 
+    Pgam1-ps2 
+    Gm14654 
+    1700058P15Rik 
+    Gm2986 
+    RP23-11K8.3 
+    Gm16585 
+    Gm15563 
+    Rps6-ps1 
+    Gm17194 
+    AL669951.1 
+    RP23-67I3.4 
+    Gm25395 
+    Gm28529 
+    Gm10136 
+    Rps12-ps9 
+    Gm11646 
+    Gm15846 
+    Gm25184 
+    Gm13071 
+    Gm22204 
+    Gm23114 
+    Gm27826 
+    Gm13408 
+    Gm26882 
+    Noxred1 
+    4930538E20Rik 
+    RP23-114N1.5 
+    Gm17214 
+    Gm17212 
+    Gm26779 
+    Gm16139 
+    Gm27238 
+    Gm7494 
+    Gm15591 
+    Gm12089 
+    Gm12229 
+    Gm16331 
+    Gm16549 
+    Gm20702 
+    Gm11196 
+    Hspe1-ps2 
+    Gm8974 
+    4933423P22Rik 
+    Gm29093 
+    Gm14049 
+    RP23-27L18.4 
+    Gm20717 
+    D630008O14Rik 
+    Gm6044 
+    Gm24924 
+    Gm11737 
+    Gm11926 
+    Gm14440 
+    Gm20726 
+    Ntn4 
+    Gm15963 
+    Gm8580 
+    Lenep 
+    Gm20404 
+2310047D07Rik 
+Rps15a-ps4 
+Gm5908 
+Als2cr11 
+Gm4189 
+Gm2810 
+Gm25679 
+Gm22634 
+Gm22317 
+Gm22068 
+Rnu1a1 
+Gm23804 
+Gm26444 
+Gm20492 
+Gm22710 
+Gm24407 
+Gm24265 
+Gm22513 
+Gm24514 
+Gm22179 
+Rpph1 
+Rn7sk 
+RP23-310L8.1 
+Gm9939 
+Gm11537 
+Gm26827 
+Gm15027 
+Gm14536 
+Gm15580 
+Gm13378 
+Gm14335 
+RP24-252K15.4 
+Gm21981 
+Arhgef12 
+Alcam 
+Gm17201 
+Yam1 
+Rmrp 
+Gm14046 
+Dhcr24 
+Cotl1 
+Lmbrd2 
+Max 
+Rab5c 
+
+4\. Reproducible B
+
+Gm3055
+
+Sgsm3
+
+Gm28052
+
+Gm27624
+
+Gm26602
+
+Gm13502
+
+RP23-403H2.2
+
+4930415F15Rik
+
+RP23-464I9.1
+
+Shb
+
+Gm20402
+
+Gm9887
+
+Otulin
+
+Tmed7
+
+AY036118
+
+Mogs
+
+Ankrd13a
+
+Sav1
+
+Gm7334
+
+Abracl
+
+Btg3
+
+Heg1
+
+Mapkapk2
+
+1190002N15Rik
+
+Ankrd40
+
+Tmem200b
+
+Itgb5
+
+Fgfrl1
+
+Gm29417
+
+RP23-353G11.6
+
+Gm10676
+
+Gm10197
+
+2310026L22Rik
+
+Gm7332
+
+Gm19582
+
+Grsf1
+
+A930035D04Rik
+
+4930570N19Rik
+
+Gm14584
+
+Gm12905
+
+Pde7a
+
+Zfp746
+
+Aff3
+
+Glcci1
+
+Actr5
+
+Crebzf
+
+Mark3
+
+Gm17110
+
+Csnk1g2
+
+Fancf
+
+Ythdf1
+
+Zmynd19
+
+Ppp1r14b
+
+Ube2m
+
+Ppp2r2d
+
+Tigd5
+
+Akirin2
+
+Pi4k2a
+
+Lemd2
+
+Kctd2
+
+AI837181
+
+Btbd2
+
+Zdhhc18
+
+Lpgat1
+
+Rab21
+
+RP23-32A8.1
+
+Tusc1
+
+Mgat4b
+
+Gm8086
+
+Gm6206
+
+Gm16199
+
+Rfwd2
+
+Crls1
+
+Abhd17c
+
+Kctd6
+
+Ier5
+
+Gm11175
+
+Jund
+
+Sap30l
+
+Plekha3
+
+Gm12184
+
+Ccdc85c
+
+H1fx
+
+Fbxo45
+
+Phc2
+
+Cdk2ap1
+
+Reps1
+
+Eid2
+
+Sppl3
+
+Dvl1
+
+Sepn1
+
+Mprip
+
+Akt1
+
+Adnp
+
+Gna12
+
+Category 1 and 2 overlap a lot
+
+#Mir692-3 #Mir692-2 #Cct3 #Tcp1 #Dnajc8 #Capza2 #Mrpl18 #Hmga1 #RNA-seq #single-cell #TroubleshootNotes #BloggerPublishedNonAcademicNotes
