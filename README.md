@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 29, 2026
+**Last updated:** July 30, 2026
 
 > **Date caveat:** Prefer the curated skills listed below. An additional
 > **729 historical Blogger notes** (mostly 2013–2022) live under
@@ -26,6 +26,7 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Cloud agents from iPhone | [Cursor_iPhone_Cloud_Agent_Skill.md](markdown/Cursor_iPhone_Cloud_Agent_Skill.md) | Use Cursor iOS cloud agents on GitHub organization repos (e.g. lab website) via dashboard Integrations and the same Cursor account |
+| Workspace custom color theme | [workspace-custom-color-theme-consensus-skill.md](markdown/workspace-custom-color-theme-consensus-skill.md) | Tint one Cursor/VS Code workspace (title bar, sidebar, editor, terminal) via `.code-workspace` or `.vscode/settings.json` without changing global settings |
 
 ### ChatGPT
 
