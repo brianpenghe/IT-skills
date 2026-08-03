@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** July 30, 2026
+**Last updated:** August 3, 2026
 
 > **Date caveat:** Prefer the curated skills listed below. An additional
 > **729 historical Blogger notes** (mostly 2013–2022) live under
@@ -53,6 +53,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | 异地开播考试 | [Douyin_异地开播考试_Skill_v2.md](markdown/Douyin_异地开播考试_Skill_v2.md) | Verified answers and question patterns for the remote live-streaming compliance exam |
+
+### RedNote / 小红书
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Portfolio / Album | [RedNote_Portfolio_Album_Skill.md](markdown/RedNote_Portfolio_Album_Skill.md) | Create a Portfolio (合集) in English RedNote; clarifies Portfolio vs Collection terminology |
 
 ### Desktop / Hardware
 
