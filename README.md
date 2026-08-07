@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** August 3, 2026
+**Last updated:** August 6, 2026
 
 > **Date caveat:** Prefer the curated skills listed below. An additional
 > **729 historical Blogger notes** (mostly 2013–2022) live under
@@ -59,6 +59,12 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Portfolio / Album | [RedNote_Portfolio_Album_Skill.md](markdown/RedNote_Portfolio_Album_Skill.md) | Create a Portfolio (合集) in English RedNote; clarifies Portfolio vs Collection terminology |
+
+### Instagram
+
+| Skill | File | What it covers |
+|-------|------|----------------|
+| Account management | [Instagram_Account_Management_Skills.md](markdown/Instagram_Account_Management_Skills.md) | Archive vs delete, bulk archiving, Stories/Highlights, and creating or switching to a professional account |
 
 ### Desktop / Hardware
 
