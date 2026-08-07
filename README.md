@@ -4,7 +4,7 @@ This repository is a collection of my troubleshooting skills, stored as Markdown
 
 You are welcome to browse the [markdown](markdown/) folder and use AI tools to help solve problems similar to ones I have already worked through.
 
-**Last updated:** August 6, 2026
+**Last updated:** August 7, 2026
 
 > **Date caveat:** Prefer the curated skills listed below. An additional
 > **729 historical Blogger notes** (mostly 2013–2022) live under
@@ -83,6 +83,7 @@ You are welcome to browse the [markdown](markdown/) folder and use AI tools to h
 | Skill | File | What it covers |
 |-------|------|----------------|
 | Organization custom properties | [GitHub_Organization_Custom_Properties_Skill.md](markdown/GitHub_Organization_Custom_Properties_Skill.md) | Classify and search organization repositories using GitHub Custom Properties |
+| Connect private repo (Codex) | [connect-private-github-repo.md](markdown/connect-private-github-repo.md) | Install ChatGPT Codex Connector on the right account/org and verify private repository access |
 
 ### Automation / Workflows
 
